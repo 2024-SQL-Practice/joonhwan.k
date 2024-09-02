@@ -15,7 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
     <td>08.28 ~ 09.04</td>
     <td>🔗1757-recyclable-and-low-fat-products <br>
     🔗0584-find-customer-referee</td>
-    <td></td>
+    <td>O</td>
     <td>- 모집단, 조건에 대해 이해함<br>
     - 2를 제외하고 선택 --> 2 제외 | null값 제외</td>
   </tr>
