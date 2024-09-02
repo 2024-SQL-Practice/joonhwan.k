@@ -15,7 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
     <td>08.28 ~ 09.04</td>
     <td>1757-recyclable-and-low-fat-products</td>
     <td></td>
-    <td>-모집단, 조건에 대해 이해할 수 있었다</td>
+    <td>-모집단, 조건에 대해 이해</td>
   </tr>
   <tr align="center">
     <td>2주차</td>
