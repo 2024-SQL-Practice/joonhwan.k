@@ -8,7 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
     <td><b>날짜</b></td>
     <td><b>문제</b></td>
     <td><b>달성 여부</b></td>
-    <td><b>느낀 점</b></td>
+    <td><b>배운 점</b></td>
   </tr>
   <tr align="center">
     <td>1주차</td>
