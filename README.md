@@ -15,11 +15,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
     <td>08.28 ~ 09.04</td>
     <td>1️⃣  &nbsp; 1757-recyclable-and-low-fat-products <br>
     2️⃣ &nbsp; 0584-find-customer-referee <br>
-    3️⃣ &nbsp; 0595-big-countries</td>
+    3️⃣ &nbsp; 0595-big-countries <br>
+    4️⃣ &nbsp; <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131536">재구매가 일어난 상품과 회원 리스트 구하기</a>
+    </td>
     <td>O</td>
     <td>1️⃣ &nbsp; 모집단, 조건<br>
     2️⃣ &nbsp; 2를 제외하고 선택 --> 2 제외 | null값 제외<br>
-    3️⃣ 마치 seaborn as sns, 여기서는 from World w</td>
+    3️⃣ 마치 seaborn as sns, 여기서는 from World w <br>
+    4️⃣ &nbsp; having count(*) 의미
+    </td>
   </tr>
   <tr align="center">
     <td>2주차</td>
